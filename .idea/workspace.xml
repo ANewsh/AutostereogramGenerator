@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d350ccd-53c3-4baf-9871-4f69f3d1a57f" name="Changes" comment="" />
+    <list default="true" id="4d350ccd-53c3-4baf-9871-4f69f3d1a57f" name="Changes" comment="fixed index valeu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StereogramGeneration/GenerateAutostereogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StereogramGeneration/GenerateAutostereogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/StereogramMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/StereogramMaker.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,15 +30,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/major proj/finalProjectFolder/AutostereogramGenerator/depthmapGenerator",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/major proj/prototype/prototype&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\major proj\finalProjectFolder\AutostereogramGenerator\depthmapGenerator" />
@@ -62,7 +66,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690199838676</updated>
-      <workItem from="1690199840149" duration="7550000" />
+      <workItem from="1690199840149" duration="7632000" />
+      <workItem from="1690216514623" duration="454000" />
+      <workItem from="1690276817442" duration="3178000" />
+      <workItem from="1690300059844" duration="663000" />
+      <workItem from="1690368878243" duration="2979000" />
+      <workItem from="1690734024438" duration="383000" />
+      <workItem from="1690904090276" duration="392000" />
+      <workItem from="1690971804608" duration="2323000" />
+      <workItem from="1691071545252" duration="17000" />
+      <workItem from="1691260100669" duration="3179000" />
+      <workItem from="1691317267070" duration="641000" />
+      <workItem from="1691328131488" duration="1574000" />
+      <workItem from="1691598981435" duration="631000" />
     </task>
     <servers />
   </component>
@@ -80,14 +96,13 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed index valeu" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed index valeu" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UI/StereogramMaker.java</url>
-          <line>220</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/UI/StereogramMaker.java</url>
           <line>198</line>

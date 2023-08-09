@@ -56,7 +56,7 @@ public class GenerateAutostereogram extends JPanel {
         }
 
 
-        for (int i = 1; i < shades.length; i++)
+        for (int i = 0; i < shades.length; i++)
         {
             BufferedImage plate = new BufferedImage(shiftmap.getWidth(), shiftmap.getHeight(), TYPE_INT_ARGB);
             Integer currentPlateShade = shades[i];

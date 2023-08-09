@@ -333,7 +333,8 @@ public class StereogramMaker extends javax.swing.JFrame implements ActionListene
             resultThread = new Thread(() -> displayParallaxResult(result, result2, width, height));
         }
         else
-        {
+
+           {
             resultThread = new Thread(() -> displayResult(result, width, height));
         }
         resultThread.start();
